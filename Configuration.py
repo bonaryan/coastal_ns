@@ -44,9 +44,11 @@ disc_rate = 0.02
 
 building_asset_growth = 0.067
 
-population_growth = 1.13
+MV_asset_growth = 0.01
 
+road_asset_growth = 0.05
 
+population_growth = 1.13 
 
 ## define colormaps
 
